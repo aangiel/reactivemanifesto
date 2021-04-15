@@ -7,7 +7,7 @@ Zmiany te zachodzą w wyniku powstałych w ostatnich latach znaczących postęp�
 
 Wierzymy, że spójne podejście do architektury systemów jest potrzebne i jesteśmy przekonani o indywidualnym rozpoznaniu wszystkich wymaganych aspektów: chcemy systemów Responsywnych, Sprężystych, Elastycznych i Sterowanych Komunikatami. Nazywamy je Systemami Reaktywnymi.
 
-Systemy budowane jako Reaktywne są bardziej elastyczne, luźno powiązane i [skalowalne](/glossary.pl#Skalowalność). Czyni je to łatwiejszym w rozwoju i podlegającymi zmianom. Są znacząco bardziej toleranycjne dla [defektów](/glossary.pl#Defekt) a samym defektom stawiają czoła w sposób elegancki, bez znamion katastrofy. Systemy Reaktywne są wysoce responsywne dając [użytkownikom](/glossary.pl#Użytkownik) wydajną, interaktywną informację zwrotną.
+Systemy budowane jako Reaktywne są bardziej elastyczne, luźno powiązane i [skalowalne](/glossary.pl.md#Skalowalność). Czyni je to łatwiejszym w rozwoju i podlegającymi zmianom. Są znacząco bardziej toleranycjne dla [defektów](/glossary.pl.md#Defekt) a samym defektom stawiają czoła w sposób elegancki, bez znamion katastrofy. Systemy Reaktywne są wysoce responsywne dając [użytkownikom](/glossary.pl.md#Użytkownik) wydajną, interaktywną informację zwrotną.
 
 *Systemy reaktywne są:*
 
